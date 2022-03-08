@@ -9,19 +9,19 @@
         "type": "motoko"
       },
       "day_3": {
-        "main": "day_2.mo",
+        "main": "day_3.mo",
         "type": "motoko"
       },
       "day_4": {
-        "main": "day_2.mo",
+        "main": "day_4.mo",
         "type": "motoko"
       },
       "day_5": {
-        "main": "day_2.mo",
+        "main": "day_5.mo",
         "type": "motoko"
       },
       "day_6": {
-        "main": "day_2.mo",
+        "main": "day_6.mo",
         "type": "motoko"
       }
     },
