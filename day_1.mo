@@ -47,7 +47,7 @@ actor {
     } else {
         return false;
     };
-  };
+  }; 
 
 //Challenge 7 - write func sum_of_array; taking an array of nats and returning sum (returns 0 if array empty)  
   public func sum_of_array(nums : [Nat]) : async Nat {
